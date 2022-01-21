@@ -1,0 +1,280 @@
+2022-01-17 23:01:903 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-17 23:01:956 INFO  HomePage :48 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5dc1b6100db9cdc13f2d3f6c05211853)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-17 23:01:276 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-17 23:01:554 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-17 23:01:957 INFO  HomePage :65 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (5dc1b6100db9cdc13f2d3f6c05211853)] -> name: login_submit]
+2022-01-17 23:01:979 INFO  LoginBasePage :32 - Verifying that user login Successfully
+2022-01-17 23:01:617 INFO  LoginBasePage :37 - Clicking on User Account Tab : [[ChromeDriver: chrome on WINDOWS (5dc1b6100db9cdc13f2d3f6c05211853)] -> xpath: //a[@class='site-header__my-account is-unverified']]
+2022-01-17 23:01:787 INFO  LoginBasePage :41 - Clicking on logOut tab : [[ChromeDriver: chrome on WINDOWS (5dc1b6100db9cdc13f2d3f6c05211853)] -> xpath: //button[normalize-space()='Log Out']]
+2022-01-17 23:01:810 INFO  HomePage :69 - Verifying that user back on Home Page Successfully
+2022-01-17 23:01:902 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-17 23:01:456 INFO  HomePage :48 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (bde45b21240f4279cc59664bbd18fbc4)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-17 23:01:374 INFO  HomePage :55 - Enter Email Address : xyz@gmail.com
+2022-01-17 23:01:725 INFO  HomePage :60 - Enter Password :Abcd123@
+2022-01-17 23:01:127 INFO  HomePage :65 - Clicking on login button : [[ChromeDriver: chrome on WINDOWS (bde45b21240f4279cc59664bbd18fbc4)] -> name: login_submit]
+2022-01-17 23:01:149 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-17 23:01:437 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-17 23:01:456 INFO  HomePage :48 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (4451a9ce1dc95c09c684f852fbb18fc8)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-17 23:01:518 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-17 23:01:911 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-17 23:01:407 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-17 23:01:425 INFO  LoginBasePage :32 - Verifying that user login Successfully
+2022-01-17 23:01:110 INFO  LoginBasePage :37 - Clicking on User Account Tab : [[ChromeDriver: chrome on WINDOWS (4451a9ce1dc95c09c684f852fbb18fc8)] -> xpath: //a[@class='site-header__my-account is-unverified']]
+2022-01-17 23:01:25 INFO  LoginBasePage :41 - Clicking on logOut tab : [[ChromeDriver: chrome on WINDOWS (4451a9ce1dc95c09c684f852fbb18fc8)] -> xpath: //button[normalize-space()='Log Out']]
+2022-01-17 23:01:48 INFO  HomePage :69 - Verifying that user back on Home Page Successfully
+2022-01-17 23:01:927 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-17 23:01:982 INFO  HomePage :48 - Clicking on login link : [[ChromeDriver: chrome on WINDOWS (5db3b69867fc73880454adb352f93a4d)] -> xpath: //a[normalize-space()='Log In']]
+2022-01-17 23:01:930 INFO  HomePage :55 - Enter Email Address : xyz@gmail.com
+2022-01-17 23:01:263 INFO  HomePage :60 - Enter Password :Abcd123@
+2022-01-17 23:01:678 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-17 23:01:691 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 10:01:987 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:345 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:411 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 10:01:622 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-18 10:01:52 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:82 INFO  LoginBasePage :32 - Verifying that user login Successfully
+2022-01-18 10:01:101 INFO  LoginBasePage :37 - Clicking on User Account Tab : 
+2022-01-18 10:01:527 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:67 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:483 INFO  HomePage :55 - Enter Email Address : xyz@gmail.com
+2022-01-18 10:01:08 INFO  HomePage :60 - Enter Password :Abcd123@
+2022-01-18 10:01:866 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:911 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 10:01:694 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:404 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:987 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 10:01:393 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-18 10:01:951 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:983 INFO  LoginBasePage :32 - Verifying that user login Successfully
+2022-01-18 10:01:109 INFO  LoginBasePage :37 - Clicking on User Account Tab : 
+2022-01-18 10:01:324 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:610 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:878 INFO  HomePage :55 - Enter Email Address : xyz@gmail.com
+2022-01-18 10:01:87 INFO  HomePage :60 - Enter Password :Abcd123@
+2022-01-18 10:01:98 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:129 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 10:01:22 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:979 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:909 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 10:01:50 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-18 10:01:510 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:566 INFO  LoginBasePage :32 - Verifying that user login Successfully
+2022-01-18 10:01:912 INFO  LoginBasePage :37 - Clicking on User Account Tab : 
+2022-01-18 10:01:729 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:138 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:479 INFO  HomePage :55 - Enter Email Address : xyz@gmail.com
+2022-01-18 10:01:817 INFO  HomePage :60 - Enter Password :Abcd123@
+2022-01-18 10:01:848 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:896 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 10:01:731 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:970 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:718 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 10:01:965 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-18 10:01:131 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:184 INFO  LoginBasePage :32 - Verifying that user login Successfully
+2022-01-18 10:01:982 INFO  LoginBasePage :37 - Clicking on User Account Tab : 
+2022-01-18 10:01:20 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 10:01:574 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 10:01:321 INFO  HomePage :55 - Enter Email Address : xyz@gmail.com
+2022-01-18 10:01:716 INFO  HomePage :60 - Enter Password :Abcd123@
+2022-01-18 10:01:38 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 10:01:191 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:759 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:94 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:468 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:981 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:535 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 11:01:536 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:873 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-18 11:01:271 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 11:01:286 INFO  LoginBasePage :32 - Verifying that user login Successfully
+2022-01-18 11:01:168 INFO  LoginBasePage :37 - Clicking on User Account Tab : 
+2022-01-18 11:01:198 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:742 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 11:01:584 INFO  HomePage :55 - Enter Email Address : abc@gmail.com
+2022-01-18 11:01:878 INFO  HomePage :60 - Enter Password :xyz123@
+2022-01-18 11:01:386 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 11:01:408 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:377 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:251 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 11:01:955 INFO  HomePage :55 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:267 INFO  HomePage :60 - Enter Password :xyz123@
+2022-01-18 11:01:693 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 11:01:707 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:590 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:50 INFO  HomePage :48 - Clicking on login link : Log In
+2022-01-18 11:01:768 INFO  HomePage :55 - Enter Email Address : abc@gmail.com
+2022-01-18 11:01:99 INFO  HomePage :60 - Enter Password :Mytest1231@!
+2022-01-18 11:01:534 INFO  HomePage :65 - Clicking on login button : Log In >
+2022-01-18 11:01:553 INFO  HomePage :74 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:800 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:672 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:997 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:531 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:128 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:559 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:263 INFO  HomePage :66 - Enter Email Address : abc@gmail.com
+2022-01-18 11:01:547 INFO  HomePage :71 - Enter Password :xyz123@
+2022-01-18 11:01:865 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:886 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:818 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:538 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:24 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:827 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:128 INFO  HomePage :71 - Enter Password :xyz123@
+2022-01-18 11:01:495 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:531 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:416 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:903 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:291 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:85 INFO  HomePage :66 - Enter Email Address : abc@gmail.com
+2022-01-18 11:01:396 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:751 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:771 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:999 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:392 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:739 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:405 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:703 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:59 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:71 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:209 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:462 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:699 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:39 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:815 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:102 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:436 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:447 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:689 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:724 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:102 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:938 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:240 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:577 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:588 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:777 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:972 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:938 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:267 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:841 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:111 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:428 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:453 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:75 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:980 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:374 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:675 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:735 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:29 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:348 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:363 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:881 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:557 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:501 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:884 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:635 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:990 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:321 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:340 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:356 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:871 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:208 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:557 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:881 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:204 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:220 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:684 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:811 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:628 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:821 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:266 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:546 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:937 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:954 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:397 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:840 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:790 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:199 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:306 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:66 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:519 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:534 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:421 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:425 INFO  LoginBasePage :47 - Clicking on logOut tab : 
+2022-01-18 11:01:441 INFO  HomePage :80 - Verifying that user back on Home Page Successfully
+2022-01-18 11:01:698 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:333 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:727 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:560 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:894 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:301 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:316 INFO  LoginBasePage :36 - Verifying that user login Successfully
+2022-01-18 11:01:122 INFO  LoginBasePage :41 - Clicking on User Account Tab : 
+2022-01-18 11:01:426 INFO  LoginBasePage :47 - Clicking on logOut tab : 
+2022-01-18 11:01:448 INFO  HomePage :80 - Verifying that user back on Home Page Successfully
+2022-01-18 11:01:448 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:834 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:302 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:962 INFO  HomePage :66 - Enter Email Address : abc@gmail.com
+2022-01-18 11:01:570 INFO  HomePage :71 - Enter Password :xyz123@
+2022-01-18 11:01:302 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:323 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:404 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:418 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:931 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:140 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-18 11:01:489 INFO  HomePage :71 - Enter Password :xyz123@
+2022-01-18 11:01:907 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:936 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-18 11:01:164 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-18 11:01:780 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-18 11:01:279 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-18 11:01:313 INFO  HomePage :66 - Enter Email Address : abc@gmail.com
+2022-01-18 11:01:659 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-18 11:01:69 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-18 11:01:98 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-19 22:01:714 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 22:01:37 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-19 22:01:772 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-19 22:01:281 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-19 22:01:417 INFO  HomePage :71 - Enter Password :Mytest1231@!
+2022-01-19 22:01:559 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-19 22:01:578 INFO  LoginBasePage :33 - Verifying that user login Successfully
+2022-01-19 22:01:767 INFO  LoginBasePage :38 - Clicking on User Account Tab : 
+2022-01-19 22:01:764 INFO  LoginBasePage :43 - Clicking on logOut tab : 
+2022-01-19 22:01:781 INFO  HomePage :80 - Verifying that user back on Home Page Successfully
+2022-01-19 22:01:976 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 22:01:830 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-19 22:01:527 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-19 22:01:920 INFO  HomePage :66 - Enter Email Address : abc@gmail.com
+2022-01-19 22:01:635 INFO  HomePage :71 - Enter Password :xyz123@
+2022-01-19 22:01:248 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-19 22:01:274 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-19 22:01:685 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 22:01:820 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-19 22:01:644 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-19 22:01:857 INFO  HomePage :66 - Enter Email Address : Patel311278@gmail.com
+2022-01-19 22:01:458 INFO  HomePage :71 - Enter Password :xyz123@
+2022-01-19 22:01:478 INFO  HomePage :76 - Clicking on login button : Log In >
+2022-01-19 22:01:505 INFO  HomePage :85 - Verifying error Message on Unsuccessful login
+2022-01-19 22:01:860 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-19 22:01:592 INFO  HomePage :53 - Clicking on accept Cookies : Log In
+2022-01-19 22:01:800 INFO  HomePage :59 - Clicking on login link : Log In
+2022-01-20 15:01:343 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 15:01:52 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 15:01:177 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 15:01:986 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:627 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:141 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:104 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-20 17:01:413 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:502 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:449 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:447 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:803 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:916 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:553 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:648 INFO  ManageDriver :30 - Launching Chrome Browser
+2022-01-21 00:01:374 INFO  ManageDriver :30 - Launching Chrome Browser
